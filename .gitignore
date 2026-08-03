@@ -1,0 +1,9 @@
+# Build output directories
+bin/
+obj/
+
+# User-specific / IDE files
+.vs/
+.vscode/
+*.user
+*.suo
