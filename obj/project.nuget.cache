@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/AS/dJlb6YM=",
+  "dgSpecHash": "qDn/FUS6WK0=",
   "success": true,
   "projectFilePath": "/Users/atul.punde/Desktop/Training/ProductApi/ProductApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/atul.punde/.nuget/packages/microsoft.entityframeworkcore/10.0.10/microsoft.entityframeworkcore.10.0.10.nupkg.sha512",
+    "/Users/atul.punde/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.10/microsoft.entityframeworkcore.abstractions.10.0.10.nupkg.sha512",
+    "/Users/atul.punde/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.10/microsoft.entityframeworkcore.analyzers.10.0.10.nupkg.sha512",
+    "/Users/atul.punde/.nuget/packages/microsoft.entityframeworkcore.inmemory/10.0.10/microsoft.entityframeworkcore.inmemory.10.0.10.nupkg.sha512"
+  ],
   "logs": []
 }
